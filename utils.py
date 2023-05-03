@@ -1,6 +1,6 @@
 import pickle
 import json
-import config1
+import config
 import numpy as np
 
 class Credit_Card_Default():
